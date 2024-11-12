@@ -12,5 +12,31 @@
 # - INSS (8%) : R$
 # - Sindicato ( 5%) : R$
 # = Salário Liquido : R$
-
 # Obs.: Salário Bruto - Descontos = Salário Líquido.
+
+# Inicializando o programa
+print( '-'*25,"\n  REAJUSTE SALARIAL\n",'-'*25)
+
+# Recebendo dados
+ganho_hora = int(input("Quanto ganhas por hora: "))
+hora_trabalhada = int(input("Quantas horas trabalhas no mês: "))
+
+print('-'*35)
+# Calculando o total do Ganho Mensal
+salario = ganho_hora * hora_trabalhada
+
+# Descontando no Salário Bruto
+imposto_renda = salario - (salario * 11 / 100)
+inss = imposto_renda - (imposto_renda * 8 / 100)
+sindicato = inss - (inss * 5 / 100)
+
+# Salário Liquido
+salario_liquido = sindicato
+
+# Exibindo os Resultados
+print(f"+ Salário Bruto: {salario:.2f}R$")
+print(f"- Imposto de Renda (11%): {imposto_renda:.2f}R$")
+print(f"- INSS (8%): {inss:.2f}R$")
+print(f"- Sindicato (5%): {sindicato:.2f}R$")
+print(f"= Salário Liquido: {salario_liquido:.2f}")
+
