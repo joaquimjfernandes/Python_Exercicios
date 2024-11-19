@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario" />
+    <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,11 +45,19 @@
     "Python.11- Reajuste_Salarial_V3.executor": "Run",
     "Python.12- Folha_Pagamento.executor": "Run",
     "Python.12- PesoIdeal.executor": "Run",
+    "Python.13- Dia_Semana.executor": "Run",
     "Python.13- RendimentoDiario.executor": "Run",
+    "Python.14- Media_Aluno_Disciplina.executor": "Run",
     "Python.14- TabelaINSS.executor": "Run",
     "Python.15- LojaTintas.executor": "Run",
+    "Python.15- Triangulos_Types.executor": "Run",
     "Python.16- LojaTintasV2.executor": "Run",
+    "Python.16- Raiz_Quadrada.executor": "Run",
+    "Python.17- Ano_Bissexto.executor": "Run",
     "Python.17- BaixarArquivos.executor": "Run",
+    "Python.18- Validar_Data.executor": "Run",
+    "Python.19- Contador_Centenas.executor": "Run",
+    "Python.20- Aproveitamento_Aluno.executor": "Run",
     "Python.4- MediaAlunos.executor": "Run",
     "Python.5- ConverterMetro.executor": "Run",
     "Python.5- Media_Aluno(Aproveitamento).executor": "Run",
@@ -73,8 +83,8 @@
       <recent name="D:\Livros\Projetos\Python_Brasil[Ex]\Estrutura Sequencial" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12- Folha_Pagamento">
-    <configuration name="10- Turno_Escolar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.20- Aproveitamento_Aluno">
+    <configuration name="16- Raiz_Quadrada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,7 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/10- Turno_Escolar.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/16- Raiz_Quadrada.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11- Reajuste_Salarial_V3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="17- Ano_Bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -109,7 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/11- Reajuste_Salarial_V3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/17- Ano_Bissexto.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12- Folha_Pagamento" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18- Validar_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/12- Folha_Pagamento.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/18- Validar_Data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8- Comprar_Produtos" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19- Contador_Centenas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -153,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/8- Comprar_Produtos.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/19- Contador_Centenas.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9- Ordem_Crescente" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20- Aproveitamento_Aluno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/9- Ordem_Crescente.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/20- Aproveitamento_Aluno.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12- Folha_Pagamento" />
-        <item itemvalue="Python.11- Reajuste_Salarial_V3" />
-        <item itemvalue="Python.10- Turno_Escolar" />
-        <item itemvalue="Python.9- Ordem_Crescente" />
-        <item itemvalue="Python.8- Comprar_Produtos" />
+        <item itemvalue="Python.20- Aproveitamento_Aluno" />
+        <item itemvalue="Python.19- Contador_Centenas" />
+        <item itemvalue="Python.18- Validar_Data" />
+        <item itemvalue="Python.17- Ano_Bissexto" />
+        <item itemvalue="Python.16- Raiz_Quadrada" />
       </list>
     </recent_temporary>
   </component>
