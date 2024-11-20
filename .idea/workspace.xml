@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario">
+      <change afterPath="$PROJECT_DIR$/Estrutura Condicional/21- Caixa_Eletronico.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2oX7PrVLfjgCJwgB8KEiBNpcCrR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,6 +62,14 @@
     "Python.18- Validar_Data.executor": "Run",
     "Python.19- Contador_Centenas.executor": "Run",
     "Python.20- Aproveitamento_Aluno.executor": "Run",
+    "Python.21- Caixa_Eletronico.executor": "Run",
+    "Python.22- Par_Ou_Impar.executor": "Run",
+    "Python.23- Inteiro_Decimal.executor": "Run",
+    "Python.24- Operacao_Numerica.executor": "Run",
+    "Python.25- Investigador_Criminal.executor": "Run",
+    "Python.26- Posto_de_Combustivel.executor": "Run",
+    "Python.27- Fruteira_JF.executor": "Run",
+    "Python.28- Hipermercado_JF.executor": "Run",
     "Python.4- MediaAlunos.executor": "Run",
     "Python.5- ConverterMetro.executor": "Run",
     "Python.5- Media_Aluno(Aproveitamento).executor": "Run",
@@ -83,8 +95,8 @@
       <recent name="D:\Livros\Projetos\Python_Brasil[Ex]\Estrutura Sequencial" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20- Aproveitamento_Aluno">
-    <configuration name="16- Raiz_Quadrada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.28- Hipermercado_JF">
+    <configuration name="24- Operacao_Numerica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -97,7 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/16- Raiz_Quadrada.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/24- Operacao_Numerica.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17- Ano_Bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="25- Investigador_Criminal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/17- Ano_Bissexto.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/25- Investigador_Criminal.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18- Validar_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="26- Posto_de_Combustivel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/18- Validar_Data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/26- Posto_de_Combustivel.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19- Contador_Centenas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="27- Fruteira_JF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/19- Contador_Centenas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/27- Fruteira_JF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20- Aproveitamento_Aluno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="28- Hipermercado_JF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,7 +197,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/20- Aproveitamento_Aluno.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +208,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20- Aproveitamento_Aluno" />
-        <item itemvalue="Python.19- Contador_Centenas" />
-        <item itemvalue="Python.18- Validar_Data" />
-        <item itemvalue="Python.17- Ano_Bissexto" />
-        <item itemvalue="Python.16- Raiz_Quadrada" />
+        <item itemvalue="Python.28- Hipermercado_JF" />
+        <item itemvalue="Python.27- Fruteira_JF" />
+        <item itemvalue="Python.26- Posto_de_Combustivel" />
+        <item itemvalue="Python.25- Investigador_Criminal" />
+        <item itemvalue="Python.24- Operacao_Numerica" />
       </list>
     </recent_temporary>
   </component>
