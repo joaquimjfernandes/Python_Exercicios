@@ -6,6 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/23- Inteiro_Decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/23- Inteiro_Decimal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/24- Operacao_Numerica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/24- Operacao_Numerica.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;joaquimjfernandes&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/joaquimjfernandes/Python_Exercicios.git&quot;,
+    &quot;accountId&quot;: &quot;22c95ea2-6c93-4683-a93b-36d03073425a&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Estrutura Sequencial/12- PesoIdeal.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/Estrutura Sequencial/6- AreaCirculo.py" root0="SKIP_INSPECTION" />
@@ -30,51 +45,66 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2oX7PrVLfjgCJwgB8KEiBNpcCrR" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.01.executor": "Debug",
-    "Python.02.executor": "Run",
-    "Python.03.executor": "Run",
-    "Python.10- CelsiusparaFahrenheit.executor": "Run",
-    "Python.10- Turno_Escolar.executor": "Run",
-    "Python.11- OperaçoesNumericas.executor": "Run",
-    "Python.11- Reajuste_Salarial_V3.executor": "Run",
-    "Python.12- Folha_Pagamento.executor": "Run",
-    "Python.12- PesoIdeal.executor": "Run",
-    "Python.13- Dia_Semana.executor": "Run",
-    "Python.13- RendimentoDiario.executor": "Run",
-    "Python.14- Media_Aluno_Disciplina.executor": "Run",
-    "Python.14- TabelaINSS.executor": "Run",
-    "Python.15- LojaTintas.executor": "Run",
-    "Python.15- Triangulos_Types.executor": "Run",
-    "Python.16- LojaTintasV2.executor": "Run",
-    "Python.16- Raiz_Quadrada.executor": "Run",
-    "Python.17- Ano_Bissexto.executor": "Run",
-    "Python.17- BaixarArquivos.executor": "Run",
-    "Python.18- Validar_Data.executor": "Run",
-    "Python.19- Contador_Centenas.executor": "Run",
-    "Python.20- Aproveitamento_Aluno.executor": "Run",
-    "Python.4- MediaAlunos.executor": "Run",
-    "Python.5- ConverterMetro.executor": "Run",
-    "Python.5- Media_Aluno(Aproveitamento).executor": "Run",
-    "Python.6- AreaCirculo.executor": "Run",
-    "Python.6- Maior_de_3.executor": "Run",
-    "Python.7- AreaQuadrado.executor": "Run",
-    "Python.7- Maior_Menor_de_3.executor": "Run",
-    "Python.8- Comprar_Produtos.executor": "Run",
-    "Python.8- SalarioMes.executor": "Run",
-    "Python.9- FahrenheitparaCelcius.executor": "Run",
-    "Python.9- Ordem_Crescente.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/Livros/Projetos/Python_Brasil[Ex]",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.01.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10- CelsiusparaFahrenheit.executor&quot;: &quot;Run&quot;,
+    &quot;Python.10- Turno_Escolar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11- OperaçoesNumericas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.11- Reajuste_Salarial_V3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12- Folha_Pagamento.executor&quot;: &quot;Run&quot;,
+    &quot;Python.12- PesoIdeal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13- Dia_Semana.executor&quot;: &quot;Run&quot;,
+    &quot;Python.13- RendimentoDiario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14- Media_Aluno_Disciplina.executor&quot;: &quot;Run&quot;,
+    &quot;Python.14- TabelaINSS.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15- LojaTintas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.15- Triangulos_Types.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16- LojaTintasV2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.16- Raiz_Quadrada.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17- Ano_Bissexto.executor&quot;: &quot;Run&quot;,
+    &quot;Python.17- BaixarArquivos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.18- Validar_Data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.19- Contador_Centenas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.20- Aproveitamento_Aluno.executor&quot;: &quot;Run&quot;,
+    &quot;Python.21- Caixa_Eletronico.executor&quot;: &quot;Run&quot;,
+    &quot;Python.22- Par_Ou_Impar.executor&quot;: &quot;Run&quot;,
+    &quot;Python.23- Inteiro_Decimal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.24- Operacao_Numerica.executor&quot;: &quot;Run&quot;,
+    &quot;Python.25- Investigador_Criminal.executor&quot;: &quot;Run&quot;,
+    &quot;Python.26- Posto_de_Combustivel.executor&quot;: &quot;Run&quot;,
+    &quot;Python.27- Fruteira_JF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.28- Hipermercado_JF.executor&quot;: &quot;Run&quot;,
+    &quot;Python.3- Calculadora_Simples.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4- Calendario.executor&quot;: &quot;Run&quot;,
+    &quot;Python.4- MediaAlunos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5- ConverterMetro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.5- Media_Aluno(Aproveitamento).executor&quot;: &quot;Run&quot;,
+    &quot;Python.6- AreaCirculo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.6- Maior_de_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7- AreaQuadrado.executor&quot;: &quot;Run&quot;,
+    &quot;Python.7- Maior_Menor_de_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8- Comprar_Produtos.executor&quot;: &quot;Run&quot;,
+    &quot;Python.8- SalarioMes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9- FahrenheitparaCelcius.executor&quot;: &quot;Run&quot;,
+    &quot;Python.9- Ordem_Crescente.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pedra_Papel_Tesoura[V1].executor&quot;: &quot;Run&quot;,
+    &quot;Python.Shutdown_PC.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Livros/Projetos/Python_Brasil[Ex]&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Livros\Projetos\Python_Brasil[Ex]\Estrutura Sequencial" />
@@ -83,9 +113,8 @@
       <recent name="D:\Livros\Projetos\Python_Brasil[Ex]\Estrutura Sequencial" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.20- Aproveitamento_Aluno">
-    <configuration name="16- Raiz_Quadrada" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python_Brasil[Ex]" />
+  <component name="RunManager" selected="Python.3- Calculadora_Simples">
+    <configuration name="1- Shutdown_PC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,11 +122,13 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura Condicional" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.13 (Python_Brasil[Ex])" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios Python" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/16- Raiz_Quadrada.py" />
+      <module name="" />
+      <option name="SCRIPT_NAME" value="D:\Livros\Projetos\Python_Brasil[Ex]\Exercicios Python\1- Shutdown_PC.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -106,7 +137,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17- Ano_Bissexto" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2- Pedra_Papel_Tesoura[V1]" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura Condicional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/17- Ano_Bissexto.py" />
+      <option name="SCRIPT_NAME" value="D:\Livros\Projetos\Python_Brasil[Ex]\Exercicios Python\2- Pedra_Papel_Tesoura[V1].py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18- Validar_Data" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="28- Hipermercado_JF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,7 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/18- Validar_Data.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,7 +181,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19- Contador_Centenas" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3- Calculadora_Simples" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -159,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura Condicional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/19- Contador_Centenas.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios Python/3- Calculadora_Simples.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20- Aproveitamento_Aluno" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4- Calendario" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Brasil[Ex]" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,11 +212,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Estrutura Condicional" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Estrutura Condicional/20- Aproveitamento_Aluno.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios Python/4- Calendario.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.20- Aproveitamento_Aluno" />
-        <item itemvalue="Python.19- Contador_Centenas" />
-        <item itemvalue="Python.18- Validar_Data" />
-        <item itemvalue="Python.17- Ano_Bissexto" />
-        <item itemvalue="Python.16- Raiz_Quadrada" />
+        <item itemvalue="Python.3- Calculadora_Simples" />
+        <item itemvalue="Python.4- Calendario" />
+        <item itemvalue="Python.2- Pedra_Papel_Tesoura[V1]" />
+        <item itemvalue="Python.1- Shutdown_PC" />
+        <item itemvalue="Python.28- Hipermercado_JF" />
       </list>
     </recent_temporary>
   </component>
@@ -228,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731442016299</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="exercicio diario">
+      <option name="closed" value="true" />
+      <created>1732061252302</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732061252302</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
