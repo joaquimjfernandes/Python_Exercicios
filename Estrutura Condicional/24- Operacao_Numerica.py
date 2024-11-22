@@ -2,7 +2,7 @@
 # O resultado da operação deve ser acompanhado de uma frase que diga se o número é:
 # par ou ímpar;
 # positivo ou negativo;
-# inteiro ou extradecimal.
+# inteiro ou decimal.
 
 print('-'*35, '\n OPERAÇÕES ARITMÉTICAS ')
 print('-'*35)
