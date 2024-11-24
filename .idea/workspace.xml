@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/23- Inteiro_Decimal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/23- Inteiro_Decimal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/24- Operacao_Numerica.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/24- Operacao_Numerica.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" beforeDir="false" afterPath="$PROJECT_DIR$/Estrutura Condicional/28- Hipermercado_JF.py" afterDir="false" />
-    </list>
+    <list default="true" id="2f3b61cb-09da-4522-be01-3ae26b7b7491" name="Changes" comment="exercicio diario" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,7 +262,23 @@
       <option name="project" value="LOCAL" />
       <updated>1732061252302</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="exercicio diario">
+      <option name="closed" value="true" />
+      <created>1732317697555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732317697555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exercicio diario">
+      <option name="closed" value="true" />
+      <created>1732317738179</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1732317738179</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -284,5 +295,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="exercicio diario" />
     <option name="LAST_COMMIT_MESSAGE" value="exercicio diario" />
+    <option name="GROUP_MULTIFILE_MERGE_BY_DIRECTORY" value="true" />
   </component>
 </project>
